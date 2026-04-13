@@ -17,7 +17,7 @@ void main() {
               width: 1000,
               margin: EdgeInsets.symmetric(
                 vertical: 50.0,
-                horizontal: 50.0,
+                horizontal: 100.0,
               )
               ,color: Colors.white,
               child: Text
